@@ -1,0 +1,26 @@
+body {
+  background: radial-gradient(#ffffff 35%, #a6a6a6);
+  font-family: Helvetica;
+}
+h1{
+  color:#212121;
+  font-size:40px;
+}
+h2{
+  color:#212121;
+  font-size:30px;
+}
+p{
+    color:#575757;
+    font-size:25px;
+    font-weight:ligher;
+    text-allign:justify;
+}
+ul{
+    color:#575757;
+    font-size:25px;
+    font-weight:ligher;
+}
+img{
+  border-radius: 20px;
+}
