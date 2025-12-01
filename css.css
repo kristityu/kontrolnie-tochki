@@ -1,0 +1,146 @@
+
+
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container2 {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 10px;
+  font-family: Helvetica;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: 40px;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+.flex{
+  align-items: center;
+}
+
+.grid {
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+}
+
+.flex1 {
+  background: #8B70E9;
+  color: #FCEBA3;
+  width: 1000px;
+  height: 200px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 30px;
+  padding-top: 100px;
+}
+
+.flex2 {
+  background: #FDEB9F;
+  color: #8B6FED;
+  width: 1000px;;
+  height: 200px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 30px;
+  padding-top: 100px;
+}
+
+.flex3 {
+  background: #F2A7EE;
+  color: #E30E0C;
+  width: 1000px;
+  height: 200px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 30px;
+  padding-top: 100px;
+}
+
+.flex4 {
+  background: #EAFEBF;
+  color: #E7732D;
+  width: 1000px;
+  height: 200px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 30px;
+  padding-top: 100px;
+}
+
+.flex5 {
+  background: #E7732D;
+  color: #EAFEBF;
+  width: 1000px;
+  height: 200px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 30px;
+  padding-top: 100px;
+}
+
+.grid1 {
+  background: #D83332;
+  color: #E0F0B2;
+  width: 1000px;
+  height: 200px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 30px;
+  padding-top: 100px;
+}
+
+.grid2 {
+  background: #E0ACE6;
+  color: #FFFEFF;
+  width: 1000px;;
+  height: 200px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 30px;
+  padding-top: 100px;
+}
+
+.grid3 {
+  background: #FFA8A8;
+  color: #FFFFFF;
+  width: 1000px;
+  height: 200px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 30px;
+  padding-top: 100px;
+}
+
+.grid4 {
+  background: #4B328C;
+  color: #FCDED7;
+  width: 1000px;
+  height: 200px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 30px;
+  padding-top: 100px;
+}
+
+.grid5 {
+  background: #320F4D;
+  color: #FFFEFF;
+  width: 1000px;
+  height: 200px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 30px;
+  padding-top: 100px;
+}
